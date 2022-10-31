@@ -2,7 +2,9 @@
 
 Hi Folks! I'm @adiravishankara! I am curious of just about everything and I like taking things apart and trying to remember how to put them back together, with varying success. I've spent a lot of time over the past couple years incubating ideas and projects for both myself and my workplaces. You will see a few of these in the repositories.
 
-I'm currently very interested the development, monitoring and singal processing of radar systems. You might see a blog post soon about this. I'm also currently learning how to develop my KDB+ skills to make faster databases and better tools for timeseries monitoring.
+I'm currently very interested the development, monitoring and singal processing of radar systems. You might see a blog post soon about this. I'm also currently learning how to develop my KDB+ skills to make faster databases and better tools for timeseries monitoring. 
+
+Canadian living in Tokyo!
 
 I'm working on developing my [page](adiravishankara.github.io). If you don't see anything yet, I'm sorry and I'm working on making it right now!
 
