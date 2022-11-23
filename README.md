@@ -6,8 +6,6 @@ I'm currently very interested the development, monitoring and singal processing 
 
 Canadian living in Tokyo!
 
-I'm working on developing my [page](adiravishankara.github.io). If you don't see anything yet, I'm sorry and I'm working on making it right now!
-
 You can reach me either on [LinkedIn](https://www.linkedin.com/in/adiravishankara/) or email adiravishankara@gmail.com. 
 
 <!---
