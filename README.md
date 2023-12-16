@@ -4,8 +4,6 @@ Hi Folks! I'm @adiravishankara! I am curious of just about everything and I like
 
 I'm currently very interested the development, monitoring and singal processing of radar systems. You might see a blog post soon about this. I'm also currently learning how to develop my KDB+ skills to make faster databases and better tools for timeseries monitoring. 
 
-Canadian living in Tokyo!
-
 You can reach me either on [LinkedIn](https://www.linkedin.com/in/adiravishankara/) or email adiravishankara@gmail.com. 
 
 <!---
