@@ -1,10 +1,10 @@
 # About Me
 
-Hi Folks! I'm @adiravishankara! I am curious of just about everything and I like taking things apart and trying to remember how to put them back together, with varying success. I've spent a lot of time over the past couple years incubating ideas and projects for both myself and my workplaces. You will see a few of these in the repositories.
-
-I'm currently very interested the development, monitoring and singal processing of radar systems. You might see a blog post soon about this. I'm also currently learning how to develop my KDB+ skills to make faster databases and better tools for timeseries monitoring. 
-
-You can reach me either on [LinkedIn](https://www.linkedin.com/in/adiravishankara/) or email adiravishankara@gmail.com. 
+Hi there! I'm @adiravishankara, a Technical Product Manager with a passion for innovation and complex problem-solving. My curiosity drives me to explore diverse fields, from medical devices to robotics and automation.
+Over the past few years, I've been deeply involved in developing cutting-edge technologies, including non-invasive diagnostic tools, AI-driven chemical analysis systems, and digital twins for robotic systems. My work spans across consumer hardware, medical devices, and industrial automation, always focusing on user-centric, scientifically-backed solutions.
+Currently, I'm particularly excited about the intersection of robotics and healthcare, exploring ways to improve quality of life through innovative technologies. I'm continuously expanding my skills in product discovery, human-centered design, and managing complex hardware/software systems.
+My repositories showcase some of the projects I've worked on, reflecting my journey from a curious tinkerer to a technical leader driving impactful innovations.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/adiravishankara/) or via email at adiravishankara@gmail.com. I'm always open to discussing new ideas, collaborations, or just geeking out about the latest in tech!
 
 <!---
 adiravishankara/adiravishankara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
